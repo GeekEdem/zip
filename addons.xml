@@ -5,8 +5,8 @@
 	   version="1.0.7"
 	   provider-name="Studio-Evolution">
 	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="script.module.simplejson" version="2.0.10"/>
+		<import addon="xbmc.python" version="2.0" />
+		<import addon="script.module.simplejson" version="3.3.0"/>
 		<import addon="script.module.requests" version="0.13.2"/>
 	</requires>
 	<extension point="xbmc.python.script" library="start.py" >
@@ -61,7 +61,7 @@
        version="3.3.0"
        provider-name="Martijn">
   <requires>
-    <import addon="xbmc.python" version="2.0.0"/>
+    <import addon="xbmc.python" version="2.0"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
