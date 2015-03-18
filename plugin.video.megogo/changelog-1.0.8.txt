@@ -1,0 +1,37 @@
+v1.0.8
+- Added "exclusive" label
+- Fix bug with text scrolling
+- Fixed bug with focus on exit dialog
+- Added series button and all-season playlist on "Play" button.
+
+v1.0.7
+- Fixed bug with login
+- Added account page
+
+v1.0.6
+- Added subtitle support. Work only in helix!
+- Added new language support in application
+
+v1.0.5
+- Fixed bug with images
+- Collections now work
+- Small fixes
+
+v1.0.4
+- Added check for a new version of addon
+
+v1.0.3
+- Small bug fixes
+
+v1.0.2
+- Added information window, when no internet connection.
+
+v1.0.1
+Now work:
+- Main menu;
+- Information about video;
+- Save last focus position;
+- Free video play.
+
+v1.0.0
+- Initial version
