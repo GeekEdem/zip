@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.megogo"
 	   name="MEGOGO.NET"
-	   version="1.0.9"
+	   version="1.0.10"
 	   provider-name="Studio-Evolution">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
